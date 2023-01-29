@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dd2b01271e6faa48",
+        "id": "c5ed2e167148ec36",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b511326c92903d",
+            "id": "46aa8b26f8ce5d6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Open-CV-Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed1413511000343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open-CV-Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Open-CV-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Open-CV-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Open-CV-Notes.md"
               }
             }
           }
@@ -147,9 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce4e6b52e833b87d",
+  "active": "aed1413511000343",
   "lastOpenFiles": [
-    "assets/Pasted image 20230128205143.png",
-    "README.md"
+    "README.md",
+    "Open-CV-Notes.md",
+    "assets/Pasted image 20230129135220.png",
+    "assets/Pasted image 20230129134816.png",
+    "Pasted image 20230129134743.png",
+    "assets/Pasted image 20230128205143.png"
   ]
 }
