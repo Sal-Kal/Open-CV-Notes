@@ -1,2 +1,0 @@
-The notes present in `Open-CV-Notes.md` can be read better in Obsidian.
-Install obsidian, clone this repo on your local machine, and then open the repo folder on your local machine as a vault in obsidian.
