@@ -1,4 +1,5 @@
 #Basics 
+#Edge_Detection
 # Contour Detection
 Contours can be defined as the boundaries of any object in an image. Contours and Edges are not the same. Contours are useful during shape analysis and object detection.
 - `findContours(edge_dilated_image_matrix, mode, contour_approximation_method)`: This method is used to find the contours in any image. We first cascade the edges of an image and then give the edge cascaded image as the input for this function.

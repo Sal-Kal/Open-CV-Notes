@@ -17,3 +17,5 @@
 # 10. [[Bit-wise Operations]]
 # 11. [[Masking]]
 # 12. [[Histogram|Computing Histogram]]
+# 13. [[Thresholding]]
+# 14. [[Edge Detection]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0abe1c424840692a",
+        "id": "6fbac427f0ca85f6",
         "type": "tabs",
         "children": [
           {
-            "id": "8736e0eae5afe0e0",
+            "id": "9591aaa3e9dbb1f5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5086555480957
   },
   "right": {
     "id": "a88d30c72283750d",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8736e0eae5afe0e0",
+  "active": "9591aaa3e9dbb1f5",
   "lastOpenFiles": [
-    "Contents.md",
-    "Histogram.md",
-    "Masking.md",
-    "Blurring Techniques.md",
-    "Bit-wise Operations.md",
-    "Color Channels.md",
-    "Color Spaces.md",
+    "Edge Detection.md",
+    "Essential Functions.md",
     "Contour Detection.md",
-    "Image Transformation.md",
-    "Essential Functions.md"
+    "Open CV.md",
+    "Color Spaces.md",
+    "Thresholding.md",
+    "assets/Pasted image 20230213150347.png",
+    "Histogram.md",
+    "Color Channels.md",
+    "Image Transformation.md"
   ]
 }

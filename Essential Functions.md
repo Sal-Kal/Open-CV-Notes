@@ -15,6 +15,7 @@ blur = cv.GaussianBlur(img, (9,9), cv.BORDER_DEFAULT)
 ```
 You can read more about blurring [[Blurring Techniques|here]]
 ## Edge Cascading
+#Edge_Detection 
 - `Canny(image_matrix, int:threshold1, int:threshold2)`: This function cascades the image based on the threshold values.
 ```python
 canny = cv.Canny(image, 125, 175)
