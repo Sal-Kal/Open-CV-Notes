@@ -4,6 +4,11 @@
 - Caer: `pip install caer`
 - Numpy : `pip install numpy`
 - Matplot-Lib : `pip install matplotlib`
+# Video Referred:
+- [Video](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+# Code:
+- [Code](https://github.com/jasmcaus/opencv-course)
+
 ---
 # 1. [[Reading Files|Reading Images and Videos]]
 # 2. [[Resizing & Re-scaling]]
@@ -19,3 +24,5 @@
 # 12. [[Histogram|Computing Histogram]]
 # 13. [[Thresholding]]
 # 14. [[Edge Detection]]
+# 15. [[Face Detection]]
+# 16. [[Face Recognition]]

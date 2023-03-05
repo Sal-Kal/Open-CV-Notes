@@ -1,4 +1,5 @@
 #Advanced 
+#Blurring
 # Blurring Techniques
 Blurring is essentially done to remove the noise from a particular image.
 ## Average Blur

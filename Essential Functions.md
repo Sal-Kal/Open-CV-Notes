@@ -9,6 +9,7 @@ cv.imshow('boodha_gray', gray)
 ```
 The `cv.COLOR_BGR2GRAY` is specifically to convert to gray-scale. There are other values which can also be used as shown [[Color Spaces|here]].
 ## Blurring an image
+#Blurring
 - `GaussianBlur(image_matrix, (int:a, int:b), bordertype)`: This function will blur the given image according to the given kernel size. The a, b values represent the kernel values. The higher the kernel size more the blur.
 ```python
 blur = cv.GaussianBlur(img, (9,9), cv.BORDER_DEFAULT)
